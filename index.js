@@ -116,6 +116,7 @@ function successthree(element, msg) {
   x.innerHTML = msg;
   articleModal.style.display = "none";
   support.style.border = "1px solid hsl(176, 72%, 28%)";
+  support.style.display = "block";
 }
 
 // Error and Success function for addEventListeners ends here
