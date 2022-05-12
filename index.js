@@ -115,7 +115,6 @@ function successthree(element, msg) {
   parent.style.border = "1px solid transparent";
   x.innerHTML = msg;
   articleModal.style.display = "none";
-  support.style.border = "1px solid hsl(176, 72%, 28%)";
   support.style.display = "block";
 }
 
